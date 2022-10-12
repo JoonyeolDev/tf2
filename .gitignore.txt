@@ -1,0 +1,5 @@
+04_머신러닝/human_activity
+
+ 02_folium/시구.geojson
+
+ AIR_HOUR_2021.csv
